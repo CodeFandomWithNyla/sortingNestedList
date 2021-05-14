@@ -1,0 +1,13 @@
+Enter the number of items you want to add in the menu	4
+Food Item 	Apple Pie
+Calories 	36
+Food Item 	Banana Shake
+Calories 	78
+Food Item 	Oat meal
+Calories 	24
+Food Item 	Chicken patties
+Calories 	56
+[['Apple Pie', '36'], ['Banana Shake', '78'], ['Oat meal', '24'], ['Chicken patties', '56']]
+Using inbuilt method food item list is :  None
+Using string slicing trick :  [['Oat meal', '24'], ['Apple Pie', '36'], ['Chicken patties', '56'], ['Banana Shake', '78']]
+Using Swapping method :  [['Oat meal', '24'], ['Apple Pie', '36'], ['Chicken patties', '56'], ['Banana Shake', '78']]
